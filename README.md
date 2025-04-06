@@ -1,9 +1,9 @@
 # A/N:
 - 前言使用中文是因为临时补充
-- 项目定义：2D像素得分制小游戏
+- 项目定义：2D像素得分制小游戏 - GET THAT SUSHI
 - 仓库详情：本人于大三上选修课程《游戏引擎设计与开发》中完成的一个**简单课设作业**，源码丢失，仅提供**视频展示**；
 - 项目基于udemy上的unity入门课程，在游戏玩法大框架上自行完善内容(详见README的模块二及模块三)
-> [^提取码为0830] 视频展示请点击链接查看：[click to check!](https://pan.baidu.com/s/14YvcMMWWdgZkexwLh_pWPg?pwd=0830)
+> [^提取码为0830] **视频展示**及**详细文档描述**请点击链接查看：[click to check!](https://pan.baidu.com/s/14YvcMMWWdgZkexwLh_pWPg?pwd=0830)
 
 # Base on：
 > Basics of C# and Unity for Complete Beginners - Alex Dev: [click to check!](https://www.udemy.com/course/free-part2-alexdev/)
@@ -30,25 +30,70 @@
 
 # Showcase
 ![图 1 Grassland](preview/01.png)
+*Grassland environment showcasing lush greenery and vibrant landscapes.*
+
 ![图 2 AutumnForest](preview/02.png)
+*Autumn forest scene with colorful foliage and a serene atmosphere.*
+
 ![图 3 Tropics](preview/03.png)
+*Tropical setting featuring palm trees and a sunny beach backdrop.*
+
 ![图 4 WinterWorld](preview/04.png)
+*Winter world with snow-covered landscapes and a chilly ambiance.*
+
 ![图 5 设置面板](preview/05.png)
+*Settings panel allowing players to adjust game preferences.*
+
 ![图 6 无限模式下的技能栏展示](preview/06.png)
+*Skill bar display in infinite mode, highlighting available abilities.*
+
 ![图 7 胜利界面（局部截图）](preview/07.png)
+*Victory screen showcasing player achievements and rewards.*
+
 ![图 8 失败界面（局部截图）](preview/08.png)
+*Failure screen providing feedback and options for retrying.*
+
 ![图 9 主界面](preview/09.png)
+*Main menu interface where players can navigate the game.*
+
 ![图 10 设置面板](preview/10.png)
+*Another view of the settings panel with detailed options.*
+
 ![图 11 音乐设置](preview/11.png)
+*Music settings allowing players to adjust audio preferences.*
+
 ![图 12 角色配置](preview/12.png)
+*Character customization screen for selecting and modifying avatars.*
+
 ![图 13 玩法介绍](preview/13.png)
+*Gameplay introduction providing insights into game mechanics.*
+
 ![图 14 教程关卡（金黄麦叶为粒子系统）](preview/14.png)
+*Tutorial level featuring particle systems, represented by golden wheat.*
+
 ![图 15 记录面板](preview/15.png)
+*Record panel displaying player statistics and achievements.*
+
 ![图 16 关卡选择](preview/16.png)
+*Level selection screen for choosing different game stages.*
+
 ![图 17 角色1](preview/17.png)
+*Character 1 showcasing unique design and abilities.*
+
 ![图 18 角色2](preview/18.png)
+*Character 2 with distinct features and gameplay mechanics.*
+
 ![图 19 发射子弹（普通子弹）](preview/19.png)
+*Firing bullets (normal bullets) in action during gameplay.*
+
 ![图 20 礼物盒掉落（图见右方绿色礼盒）](preview/20.png)
+*Gift box drop, featuring a green gift box on the right side.*
+
 ![图 21 强化手套（局部截图）](preview/21.png)
+*Enhanced gloves shown in a close-up screenshot.*
+
 ![图 22 技能释放](preview/22.png)
+*Skill activation in progress, demonstrating special abilities.*
+
 ![图 23 QTE按钮展示（白色的EMOJI）](preview/23.png)
+*Display of QTE buttons, featuring white EMOJI icons for interaction.*
