@@ -1,14 +1,14 @@
-# A/N:
+# A/N
 - 前言使用中文是因为临时补充
 - 项目定义：2D像素得分制小游戏 - GET THAT SUSHI
 - 仓库详情：本人于大三上选修课程《游戏引擎设计与开发》中完成的一个**简单课设作业**，源码丢失，仅提供**视频展示**；
 - 项目基于udemy上的unity入门课程，在游戏玩法大框架上自行完善内容(详见README的模块二及模块三)
 > [^提取码为0830] **视频展示**及**详细文档描述**请点击链接查看：[click to check!](https://pan.baidu.com/s/14YvcMMWWdgZkexwLh_pWPg?pwd=0830)
 
-# Base on：
+# Base on
 > Basics of C# and Unity for Complete Beginners - Alex Dev: [click to check!](https://www.udemy.com/course/free-part2-alexdev/)
 
-# WHAT I UPDATE：
+# WHAT I UPDATE
 1. Main Menu & Mouse sprites
 2. Beginner Tutorial
 3. Animation(sushi destruction and so on...)
@@ -28,7 +28,7 @@
 - UI Sounds - @SoupTonic 
 - Music - @Rest! (Ricardo Cuello)
 
-# Showcase
+# SHOWCASE
 ![图 1 Grassland](preview/01.png)
 
 [图 1 Grassland] **Grassland environment showcasing lush greenery and vibrant landscapes.**
